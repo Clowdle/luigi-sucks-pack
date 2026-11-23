@@ -5059,9 +5059,8 @@ hash = "106f4865108c3b62a2da1a28897cd1699cced6100428fb46729ff5e8cefc0221"
 metafile = true
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "4c2e6fdb1de39ffdc2de21049cfe869ee5e653aad3ac48658c0430bfa42c9fb4"
-metafile = true
+file = "mods/fastboot-1.20.x-1.2fabric.jar"
+hash = "883e531ab6bba35d80ca5168995305f2d1a7da71f0e673c83bcd9b294b6f1d28"
 
 [[files]]
 file = "mods/faster-random.pw.toml"
@@ -5179,9 +5178,8 @@ hash = "c18c7cd4b973487e6e6e43b6ca16cacb2cbcfc90a0946dba0b31328cc2b5d54e"
 metafile = true
 
 [[files]]
-file = "mods/go-fish.pw.toml"
-hash = "be1f68411868cefbce62a68ec2a77414c471ad8baf89d5a96b414482eef30b44"
-metafile = true
+file = "mods/go-fish-1.6.3+1.20.1.jar"
+hash = "f4fbe5b10944cf36e0bd0d7399d1f0b2be0909c782e3233caf8515c9f89daced"
 
 [[files]]
 file = "mods/grass-seeds.pw.toml"
