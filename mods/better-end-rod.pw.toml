@@ -1,0 +1,12 @@
+name = "Better End Rod"
+filename = "betterendrod-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sHufDzUa/versions/YwSHgK3X/betterendrod-1.1.0.jar"
+hash-format = "sha512"
+hash = "a3c7a4f54b9c900f667aa57563cb2dc4cfb9e9ee73bff32c6239c110685828eda7a5efacba7cc65aa5f9f506f10e781a0b714870665b9e3dac938bf20e2844ad"
+
+[update.modrinth]
+mod-id = "sHufDzUa"
+version = "YwSHgK3X"

@@ -1,0 +1,12 @@
+name = "Mythic Upgrades"
+filename = "mythicupgrades-fabric-1.20.1-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ERH7cFoy/versions/aEqbbi2R/mythicupgrades-fabric-1.20.1-5.1.1.jar"
+hash-format = "sha512"
+hash = "daf37bbf5e12fae9e20096604a2cc8695674b96234e14a1fbc31f5705f39bc08f447f7c81265462a92486c47cb6c8c671859f5ec78e40bdd12fd33428d9cde3c"
+
+[update.modrinth]
+mod-id = "ERH7cFoy"
+version = "aEqbbi2R"

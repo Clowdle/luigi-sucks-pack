@@ -1,0 +1,12 @@
+name = "Mekanism Generators Fabric"
+filename = "MekanismGenerators-Fabric-1.20.1-10.4.16.fabric.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9934891aafcf97731e3a9c548bd8524892443cf"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9342355
+project-id = 1768818

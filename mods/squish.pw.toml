@@ -1,0 +1,12 @@
+name = "Squish"
+filename = "squish-fabric-1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3z1Z8gDY/versions/IchJixRM/squish-fabric-1.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "559a57a3e320a9acbbb39025718bbc61741d9d2a1d9162851daa773996d0b60c1d06693b59d4a1bfea3e0e2c74ac9835f453906712a5c791ffcf1c6555bc91ca"
+
+[update.modrinth]
+mod-id = "3z1Z8gDY"
+version = "IchJixRM"

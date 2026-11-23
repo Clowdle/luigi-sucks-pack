@@ -1,0 +1,12 @@
+name = "The Ultimate Compat Mod"
+filename = "theultimatecompatmod-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GgMj4Xam/versions/UQo47lgk/theultimatecompatmod-1.6.0.jar"
+hash-format = "sha512"
+hash = "baab9b3bd863696c8bd99056827d6ac1d1f0981dbf340b63d018108b41fc8e25908180ac016c93f59743978919ee9437e51d7f4b740439166fb3f2c40ae74a3a"
+
+[update.modrinth]
+mod-id = "GgMj4Xam"
+version = "UQo47lgk"

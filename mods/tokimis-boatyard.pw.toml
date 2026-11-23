@@ -1,0 +1,12 @@
+name = "Tokimi's Boatyard"
+filename = "tokimiboatyard-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rbyW3oT3/versions/1PKCZzQ4/tokimiboatyard-1.1.jar"
+hash-format = "sha512"
+hash = "308eb4394df5eb475d3231ccc923d1c821f2f53c0a08f0eebed5c37eddd3108461395b4d45fa97d8097f3981e5e779a57c4bb6fd9d0afb04e61032ca020739d6"
+
+[update.modrinth]
+mod-id = "rbyW3oT3"
+version = "1PKCZzQ4"

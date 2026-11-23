@@ -1,0 +1,12 @@
+name = "CozyStudios Core"
+filename = "cozystudioscore-2.9.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vtJbMy5O/versions/qgfvdEeG/cozystudioscore-2.9.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "fbbf104df868f4c7b46a0c115019859e145d51ca26fea6a3a6c5bc62517f82ceefd9165497c938ce56ee8d60348e82a91b6fdf88424fc0ce0b88b489eb2d4459"
+
+[update.modrinth]
+mod-id = "vtJbMy5O"
+version = "qgfvdEeG"

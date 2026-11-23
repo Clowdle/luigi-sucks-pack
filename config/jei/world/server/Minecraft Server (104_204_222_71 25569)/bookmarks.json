@@ -1,0 +1,20 @@
+[
+  {"version":1},
+  {"type":"item_stack","value":"{Count:1b,id:\"soundscape:boombox\"}"},
+  {"type":"recipe","value":"minecraft:crafting#chipped:benches/carpenters_table#item_stack\u0026chipped:carpenters_table"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:mechanical_drill\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:andesite_alloy\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:wrench\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:gearbox\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:clutch\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:shaft\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:rope_pulley\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:super_glue\",tag:{Damage:0}}"},
+  {"type":"recipe","value":"minecraft:crafting#create:crafting/kinetics/mechanical_press#item_stack\u0026create:mechanical_press"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:hand_crank\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:goggles\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:gearshift\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:cogwheel\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"create:large_cogwheel\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"mekanismgenerators:heat_generator\"}"}
+]

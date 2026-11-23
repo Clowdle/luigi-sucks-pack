@@ -1,0 +1,12 @@
+name = "Cameramen (TV system)"
+filename = "cameramen-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6043d112b35549eb0d8e25b0f5cf8ddbd418cf8"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8641623
+project-id = 1651227
