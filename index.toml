@@ -15129,3 +15129,13 @@ hash = "4294204894e7606f1eed485a666d454c841e90c7bfdee08eb9d668474bb4a782"
 [[files]]
 file = "shaderpacks/MID ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5/shaders/world1/voxy_translucent.glsl"
 hash = "aa0a49fff1a950b23ccd11b24757bb7d9d30c7463a3155c27f3aa8fce31ba1cb"
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "4f77d81b6b783246262590d38e802b2d299e69364de7f0eb17b98e7194440f94"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "4c5cf77da0bcb77db6f2459f6c2d48c80fbecb794f1fd94796268a0c5c0b6911"
+metafile = true
