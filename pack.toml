@@ -1,12 +1,12 @@
 name = "Luigi Sucks Homestead"
 author = "Clowdle"
-version = "2.0.1-3"
+version = "2.0.1-4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1398a1a74f65a48fae00cb39ca10935a7512e2727b763dfbec1e40cfd07dfc63"
+hash = "563c19bde9230752fe465bad1c14c021d8e4da89a06bd635b95204f115dd9876"
 
 [versions]
 minecraft = "1.20.1"

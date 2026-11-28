@@ -15139,3 +15139,8 @@ metafile = true
 file = "mods/immersive-armors.pw.toml"
 hash = "4c5cf77da0bcb77db6f2459f6c2d48c80fbecb794f1fd94796268a0c5c0b6911"
 metafile = true
+
+[[files]]
+file = "mods/custom-paintings.pw.toml"
+hash = "79a6fc96fd88544ed72afd78ff491649325ace76d68c4819cdaff2c4570dc4b0"
+metafile = true
